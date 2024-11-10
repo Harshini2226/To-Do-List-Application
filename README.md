@@ -39,4 +39,9 @@ Due Dates: Include an option to add due dates to tasks.
 
 Task Editing: Enable editing of existing tasks.
 
+# OUTPUT
 
+![Screenshot 2024-11-10 183352](https://github.com/user-attachments/assets/c0e3ce03-ef02-4240-9c2d-103fcfc2be59)
+
+
+![Screenshot 2024-11-10 183332](https://github.com/user-attachments/assets/1c4fc164-7f2f-4924-97e0-6845c801e02a)
